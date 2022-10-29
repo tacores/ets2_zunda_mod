@@ -3,3 +3,4 @@ FMOD/.user/**
 FMOD/.cache/**
 FMOD/build/-/**
 FMOD/assets/**
+*.blend1
