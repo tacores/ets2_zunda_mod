@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .live_zunda {
- cargo: "cargo.live_zunda"
-}
-}

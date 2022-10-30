@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .freeze_zunda {
- cargo: "cargo.freeze_zunda"
-}
-}
