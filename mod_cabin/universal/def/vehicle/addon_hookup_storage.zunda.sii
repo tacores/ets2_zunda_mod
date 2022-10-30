@@ -9,7 +9,7 @@ SiiNunit
 # same namespace so suffixes or prefixes should be used to avoid conflicts.
 
 
-@include "addon_hookups/dashboard.ponies.sui"
+@include "addon_hookups/dashboard.zunda.sui"
 
 }
 

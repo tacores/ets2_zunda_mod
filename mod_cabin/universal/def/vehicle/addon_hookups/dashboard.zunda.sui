@@ -1,0 +1,10 @@
+accessory_hookup_int_data : buttix.zunda.addon_hookup
+{
+	name: "Zundamon Cabin"
+	icon: "zunda_smile"
+	price: 50
+	unlock: 0
+	variant: zunda_smile
+	suitable_for[]: "set_dashbrd"
+	model: "/vehicle/truck/upgrade/interior_decors/toystand/zunda/zunda_smile.pmd"
+}

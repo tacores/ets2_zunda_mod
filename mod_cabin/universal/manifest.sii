@@ -1,7 +1,7 @@
 SiiNunit
 {
-    mod_package : cargo.zunda_buttix {
-    	display_name: "Zundamon Cabin Accessaries"
+    mod_package : cabin.zunda_buttix {
+    	display_name: "Zundamon Cabin"
     	package_version: "1.00"
     	author: "buttix"
         category[]: "models"
