@@ -1,0 +1,12 @@
+SiiNunit
+{
+    mod_package : cargo.zunda_buttix {
+    	display_name: "Zundamon Cabin Accessaries"
+    	package_version: "1.00"
+    	author: "buttix"
+        category[]: "models"
+        category[]: "interior"
+    	icon: "mod_icon.jpg"
+    	description_file: "description.txt"
+    }
+}
