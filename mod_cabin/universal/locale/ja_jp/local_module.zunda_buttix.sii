@@ -5,5 +5,11 @@ localization_db : .localization
         key[]: "zunda_family" # This is localization token, you can use it by typing @@chassis@@. We recommend to keep them written using lower-case alpha-numeric ASCII characters.
         val[]: "ずんだもん（家族）" # This is its value in the language. For every language this value can be different.
 
+        key[]: "zunda_alone" # This is localization token, you can use it by typing @@chassis@@. We recommend to keep them written using lower-case alpha-numeric ASCII characters.
+        val[]: "ずんだもん（単独）" # This is its value in the language. For every language this value can be different.
+
+        key[]: "zunda_alone_big" # This is localization token, you can use it by typing @@chassis@@. We recommend to keep them written using lower-case alpha-numeric ASCII characters.
+        val[]: "ずんだもん（単独・大）" # This is its value in the language. For every language this value can be different.
+
 }
 }

@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "zunda_alone_big.tobj"
+	texture_name : "texture"
+}

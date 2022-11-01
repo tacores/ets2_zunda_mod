@@ -4,11 +4,22 @@
 ダッシュボードに設置可能です。
 
 表情のパターン含め、種類は今後増やしていきたいと思っています。
-一応言っておくと、このMODは残虐な表現を含みません。
+このMODは残虐な表現を含みません。
 
 （既知の問題）
-・現状では右ハンドルに対応していません
+・現状では右ハンドルの環境を考慮していません
 ・フォトモードで車の外側から見ると、虫かごが透過しない問題があります
 
 3Dモデルは、しのびぃ～様の妖精ずんだもんの立ち絵を元に作成しました。
+
+
+This Mod adds Zundamon cabin accessories.
+It can be installed on the dashboard.
+
+I would like to add more types including expression patterns in the future.
+This mod does not contain cruel expressions.
+
+(Known issues)
+Currently, right hand drive is not supported.
+When viewed from the outside of the car in photo mode, there is a problem with the insect cage not being transparent.
 

@@ -8,3 +8,22 @@ accessory_hookup_int_data : buttix.zunda.family.addon_hookup
 	model: "/vehicle/truck/upgrade/interior_decors/toystand/zunda/zunda_family.pmd"
 }
 
+accessory_hookup_int_data : buttix.zunda.alone.addon_hookup
+{
+	name: "@@zunda_alone@@"
+	icon: "zunda_alone"
+	price: 50
+	unlock: 0
+	suitable_for[]: "set_dashbrd"
+	model: "/vehicle/truck/upgrade/interior_decors/toystand/zunda/zunda_alone.pmd"
+}
+
+accessory_hookup_int_data : buttix.zunda.alone.big.addon_hookup
+{
+	name: "@@zunda_alone_big@@"
+	icon: "zunda_alone_big"
+	price: 50
+	unlock: 0
+	suitable_for[]: "set_dashbrd"
+	model: "/vehicle/truck/upgrade/interior_decors/toystand/zunda/zunda_alone_big.pmd"
+}
