@@ -2,7 +2,7 @@ SiiNunit
 {
     mod_package : cargo.zunda_buttix {
     	display_name: "Zundamon Cargo"
-    	package_version: "1.00"
+    	package_version: "1.01"
     	author: "buttix"
     	category[]: "cargo_pack"
 		category[]: "sound"

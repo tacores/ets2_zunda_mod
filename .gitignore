@@ -1,6 +1,11 @@
-FMOD/.unsaved/**
-FMOD/.user/**
-FMOD/.cache/**
-FMOD/build/-/**
-FMOD/assets/**
+FMOD/zunda_buttix/.unsaved/**
+FMOD/zunda_buttix/.user/**
+FMOD/zunda_buttix/.cache/**
+FMOD/zunda_buttix/build/-/**
+FMOD/zunda_buttix/assets/**
+FMOD/zunda_tsumugi/.unsaved/**
+FMOD/zunda_tsumugi/.user/**
+FMOD/zunda_tsumugi/.cache/**
+FMOD/zunda_tsumugi/build/-/**
+FMOD/zunda_tsumugi/assets/**
 *.blend1
